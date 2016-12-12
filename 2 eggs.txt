@@ -1,0 +1,5 @@
+2 eggs
+4 peanuts
+
+Mix eggs and peanuts
+Eat
